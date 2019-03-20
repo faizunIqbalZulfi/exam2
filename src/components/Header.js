@@ -16,7 +16,8 @@ class Header extends Component {
         <nav className="navbar navbar-expand-sm navbar-light bg-light sticky-top mb-3">
           <div className="container">
             <Link className="navbar-brand" to="/">
-              TOKONGAPAK
+              <i class="fas fa-shoe-prints" />
+              Brand<b>Name</b>
             </Link>
             <button
               className="navbar-toggler"
@@ -64,7 +65,8 @@ class Header extends Component {
           <nav className="navbar sticky-top navbar-expand-md navbar-light bg-light mb-3">
             <div className="container">
               <Link className="navbar-brand" to="/">
-                TOKONGAPAK
+                <i class="fas fa-shoe-prints" />
+                Brand<b>Name</b>
               </Link>
               <button
                 className="navbar-toggler"

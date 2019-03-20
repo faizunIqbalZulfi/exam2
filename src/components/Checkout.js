@@ -61,7 +61,7 @@ class Checkout extends React.Component {
 
           <tbody>
             {this.onMapCart()}
-            <tr className="bg-success">
+            <tr className="bg-primary">
               <td />
               <td />
               <td>

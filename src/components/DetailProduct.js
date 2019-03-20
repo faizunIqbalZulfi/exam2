@@ -25,7 +25,7 @@ class DetailProduct extends React.Component {
 
     return (
       <div className="card text-center" key={product.id}>
-        <div className="card-header">{product.name}</div>
+        <div className="card-header bg-primary">{product.name}</div>
 
         <div className="card-body">
           <img src={product.src} alt={product.name} />

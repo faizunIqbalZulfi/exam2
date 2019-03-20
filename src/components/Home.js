@@ -138,7 +138,7 @@ class Home extends React.Component {
 
               <button
                 onClick={this.searchProduct}
-                className="btn btn-outline-secondary btn-block mt-5"
+                className="btn btn-outline-light btn-block mt-5"
               >
                 Search
               </button>

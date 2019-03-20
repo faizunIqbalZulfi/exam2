@@ -88,7 +88,7 @@ class Cart extends React.Component {
       if (this.state.cart.length !== 0) {
         return (
           <div className="container text-center">
-            <h1 className="display-4 text-center">MY CART</h1>
+            <h1 className="display-4 text-center">CART</h1>
 
             <table className="table table-hover mb-5">
               <thead>
@@ -112,7 +112,7 @@ class Cart extends React.Component {
               {this.onMapCart()}
             </table>
             <button
-              className="btn btn-outline-success"
+              className="btn btn-outline-primary"
               onClick={() => {
                 this.onCheckout();
               }}

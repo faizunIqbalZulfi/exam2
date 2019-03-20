@@ -2,6 +2,10 @@ td img.list {
   width: 50px;
 }
 
+.card {
+  border: 3px solid gray;
+}
+
 .card-body img {
   width: 250px;
 }
@@ -9,6 +13,23 @@ td img.list {
   max-height: 250px;
 }
 
-.card {
-  text-align: center;
+.col-2 .card {
+  background-color: gray;
 }
+.col-10 .card {
+  padding-top: 10px;
+}
+
+.card,
+.btn,
+input {
+  border-radius: 0px !important;
+}
+
+.navbar {
+  background-color: gray !important;
+}
+
+/* .btn {
+  border-radius: 0px;
+} */
