@@ -1,0 +1,14 @@
+td img.list {
+  width: 50px;
+}
+
+.card-body img {
+  width: 250px;
+}
+.card img {
+  max-height: 250px;
+}
+
+.card {
+  text-align: center;
+}
