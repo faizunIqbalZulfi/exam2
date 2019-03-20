@@ -1,0 +1,173 @@
+{
+  "users": [
+    {
+      "username": "faizun",
+      "email": "faizun@gmail.com",
+      "password": "empatdan4",
+      "id": 3
+    },
+    {
+      "username": "iqbal",
+      "email": "iqbal@gmail.com",
+      "password": "empatdan4",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "Air Jordan 19 Retro",
+      "desc": "the Air Jordan 19 Retro is back and true to its original 2004 design. Its high-tech, braided sleeve delivers secure support, while Zoom Air cushioning keeps you flying on the court",
+      "price": 3109000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/ldytao5kxm6eg7rubd4v/air-jordan-19-retro-shoe-D740nb.jpg",
+      "id": 1
+    },
+    {
+      "name": "Jordan Apex-Utility",
+      "desc": "The Jordan Apex-Utility pushes the past into the future with its unique blend of modern and iconic design elements",
+      "price": 3109000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/mjfeiouxdx7lojamf5wj/jordan-apex-utility-shoe-gCflRw.jpg",
+      "id": 2
+    },
+    {
+      "name": "Air Jordan 5 Laney",
+      "desc": "The Air Jordan 5 Laney JSP pays tribute to Jordan's high-school playing days on an iconic silhouette he debuted years later",
+      "price": 2909000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/ohpk2fx8aiy1gko105oo/air-jordan-5-laney-jsp-shoe-PXcF1V.jpg",
+      "id": 3
+    },
+    {
+      "name": "Jordan Proto-React",
+      "desc": "Nike React technology gives you more bounce with less weight, and an aeronautics-inspired shroud with a snug bootie helps keep you strapped in for take-off",
+      "price": 2279000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/h2ju9uizvnjh0mlh1lyx/jordan-proto-react-shoe-Nbw4wS.jpg",
+      "id": 4
+    },
+    {
+      "name": "Air Jordan 1 Mid SE",
+      "desc": "The Air Jordan 1 Mid SE brings full-court style and premium comfort to an iconic look",
+      "price": 1799000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/wzzwmbefdam6b5afdx2x/air-jordan-1-mid-se-shoe-xnGlQq.jpg",
+      "id": 5
+    },
+    {
+      "name": "Air Jordan XXXIII",
+      "desc": "The Air Jordan XXXIII rewrites the story of an iconic basketball shoe. Its revolutionary closure system secures you for flight, while new FlightSpeed technology is tuned for optimal energy return",
+      "price": 2909000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_440/tsgleqrfjfixphaujoih/air-jordan-xxxiii-basketball-shoe-kbwnmz.jpg",
+      "id": 6
+    },
+    {
+      "name": "Air Jordan Retro 8",
+      "desc": "The Air Jordan 8 made its debut during Michael Jordan's \"three-peat\" 1992–93 championship season",
+      "price": 2779000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/v9xptawrokfr14nsmx2d/air-jordan-retro-8-shoe-moTBOMBw.jpg",
+      "id": 7
+    },
+    {
+      "name": "Air Jordan 10 Retro",
+      "desc": "Featuring soft, lightweight cushioning, the Air Jordan 10 Retro offers performance-inspired comfort with iconic Air Jordan detailing",
+      "price": 2779000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/myexozehyfzqmqsgelrs/air-jordan-10-retro-shoe-f3jBkN.jpg",
+      "id": 8
+    },
+    {
+      "name": "Air Jordan 14 Retro",
+      "desc": "The Air Jordan 14 Retro Men's Shoe combines class and comfort with a premium look and Nike Air cushioning",
+      "price": 2779000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/ytj6ydzj3qn5jwl1xbrf/air-jordan-14-retro-shoe-G7BqkW.jpg",
+      "id": 9
+    }
+  ],
+  "carts": [
+    {
+      "username": "iqbal",
+      "qty": 4,
+      "name": "Air Jordan 19 Retro",
+      "desc": "the Air Jordan 19 Retro is back and true to its original 2004 design. Its high-tech, braided sleeve delivers secure support, while Zoom Air cushioning keeps you flying on the court",
+      "price": 3109000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/ldytao5kxm6eg7rubd4v/air-jordan-19-retro-shoe-D740nb.jpg",
+      "productId": 1,
+      "id": 6
+    },
+    {
+      "username": "iqbal",
+      "qty": 3,
+      "name": "Air Jordan 1 Mid SE",
+      "desc": "The Air Jordan 1 Mid SE brings full-court style and premium comfort to an iconic look",
+      "price": 1799000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/wzzwmbefdam6b5afdx2x/air-jordan-1-mid-se-shoe-xnGlQq.jpg",
+      "productId": 5,
+      "id": 7
+    },
+    {
+      "username": "iqbal",
+      "qty": 2,
+      "name": "Air Jordan 14 Retro",
+      "desc": "The Air Jordan 14 Retro Men's Shoe combines class and comfort with a premium look and Nike Air cushioning",
+      "price": 2779000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/ytj6ydzj3qn5jwl1xbrf/air-jordan-14-retro-shoe-G7BqkW.jpg",
+      "productId": 9,
+      "id": 8
+    },
+    {
+      "username": "faizun",
+      "qty": 3,
+      "name": "Air Jordan 19 Retro",
+      "desc": "the Air Jordan 19 Retro is back and true to its original 2004 design. Its high-tech, braided sleeve delivers secure support, while Zoom Air cushioning keeps you flying on the court",
+      "price": 3109000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/ldytao5kxm6eg7rubd4v/air-jordan-19-retro-shoe-D740nb.jpg",
+      "productId": 1,
+      "id": 9
+    },
+    {
+      "username": "faizun",
+      "qty": 2,
+      "name": "Jordan Apex-Utility",
+      "desc": "The Jordan Apex-Utility pushes the past into the future with its unique blend of modern and iconic design elements",
+      "price": 3109000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/mjfeiouxdx7lojamf5wj/jordan-apex-utility-shoe-gCflRw.jpg",
+      "productId": 2,
+      "id": 10
+    },
+    {
+      "username": "faizun",
+      "qty": 3,
+      "name": "Air Jordan 1 Mid SE",
+      "desc": "The Air Jordan 1 Mid SE brings full-court style and premium comfort to an iconic look",
+      "price": 1799000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/wzzwmbefdam6b5afdx2x/air-jordan-1-mid-se-shoe-xnGlQq.jpg",
+      "productId": 5,
+      "id": 11
+    },
+    {
+      "username": "faizun",
+      "qty": 1,
+      "name": "Air Jordan XXXIII",
+      "desc": "The Air Jordan XXXIII rewrites the story of an iconic basketball shoe. Its revolutionary closure system secures you for flight, while new FlightSpeed technology is tuned for optimal energy return",
+      "price": 2909000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_440/tsgleqrfjfixphaujoih/air-jordan-xxxiii-basketball-shoe-kbwnmz.jpg",
+      "productId": 6,
+      "id": 12
+    },
+    {
+      "username": "faizun",
+      "qty": 3,
+      "name": "Air Jordan 10 Retro",
+      "desc": "Featuring soft, lightweight cushioning, the Air Jordan 10 Retro offers performance-inspired comfort with iconic Air Jordan detailing",
+      "price": 2779000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/myexozehyfzqmqsgelrs/air-jordan-10-retro-shoe-f3jBkN.jpg",
+      "productId": 8,
+      "id": 13
+    },
+    {
+      "username": "faizun",
+      "qty": 4,
+      "name": "Air Jordan 14 Retro",
+      "desc": "The Air Jordan 14 Retro Men's Shoe combines class and comfort with a premium look and Nike Air cushioning",
+      "price": 2779000,
+      "src": "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/ytj6ydzj3qn5jwl1xbrf/air-jordan-14-retro-shoe-G7BqkW.jpg",
+      "productId": 9,
+      "id": 14
+    }
+  ]
+}
